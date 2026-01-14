@@ -4,11 +4,14 @@
 <img width="1080" height="1080" alt="モックアップ" src="https://github.com/user-attachments/assets/3e277d9b-71cd-4104-bc83-9dcdb9f5c417" />
 
 
-・デモURL
-（これが最強）
+📌デモサイトURL
+https://choconote.myshopify.com/
 
-・動画リンク（必須級）
-例：YouTube非公開 or Drive共有
+PWD：test1234
+
+Shopify の Dawn テーマをベースに、チョコレートブランド向けの商品ページ・コレクションページを構築したデモサイトです。デザインの世界観と商品ビジュアルを活かした構成を意識しています。
+
+📌Liquid Customization Overview
 
 <img width="1163" height="640" alt="ランキング（8位まで）" src="https://github.com/user-attachments/assets/ab4dd5cd-433b-453b-8fe9-05940b9fd60d" />
 
