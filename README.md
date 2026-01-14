@@ -1,6 +1,8 @@
 # My Vue.js Library App
 # 📚 プロジェクト名
 
+<img width="1080" height="1080" alt="モックアップ" src="https://github.com/user-attachments/assets/3e277d9b-71cd-4104-bc83-9dcdb9f5c417" />
+
 # 🛒 Shopify デモセクション集
 
 Shopify のデモストアを参考にして作成したセクションコードをまとめたリポジトリです。  
