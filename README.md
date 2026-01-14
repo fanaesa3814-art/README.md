@@ -10,6 +10,15 @@
 ・動画リンク（必須級）
 例：YouTube非公開 or Drive共有
 
+
+
+https://github.com/user-attachments/assets/a84d6ca4-c015-4f68-ad97-193a1e38c9c3
+
+
+![タグ切替（2つ） - コピー](https://github.com/user-attachments/assets/7af0092c-9a4c-4fff-9475-79825d178a7d)
+
+
+
 ・実装概要
 
 テーマ: Dawn 12.x
