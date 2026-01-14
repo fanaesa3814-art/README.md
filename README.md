@@ -13,19 +13,21 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
 
 📌Liquid Section Customization (Dawn Theme)
 
+📍ランキング表示（8位まで表示可能）
 <img width="1163" height="640" alt="ランキング（8位まで）" src="https://github.com/user-attachments/assets/ab4dd5cd-433b-453b-8fe9-05940b9fd60d" />
 
 
 
 
 
+📍商品タブ切替
 
 https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
 
 
 
 
-
+📍無料ギフトラッピング、配送日時指定
 
 https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 
@@ -37,13 +39,13 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 
 
 
-・実装概要
+📌実装概要
 
 テーマ: Dawn 12.x
 
 カスタム: hero-banner, review-section, FAQ など
 
-・使った技術
+📌使った技術
 
 Liquid
 
@@ -51,8 +53,7 @@ Shopify Theme Editor
 
 HTML/CSS/JS
 
-・できること
-（＝採用側が知りたいこと）
+📌できること
 
 ### 🧩 テーマカスタマイズ（Liquid）
 - Dawnテーマのセクション追加・編集
@@ -148,7 +149,7 @@ Shopify のデモストアを参考にして作成したセクションコード
 
 - Shopify Liquid
 - HTML / CSS
-- （必要であれば）少量の JavaScript
+- JavaScript(基礎）
 
 ---
 
