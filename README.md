@@ -1,4 +1,4 @@
-# README.md
+# My Vue.js Library App
 
 # プロジェクト名
 
