@@ -11,7 +11,7 @@ PWD：test1234
 
 Shopify の Dawn テーマをベースに、チョコレートブランド向けの商品ページ・コレクションページを構築したデモサイトです。デザインの世界観と商品ビジュアルを活かした構成を意識しています。
 
-📌Liquid Customization Overview
+📌Liquid Section Customization (Dawn Theme)
 
 <img width="1163" height="640" alt="ランキング（8位まで）" src="https://github.com/user-attachments/assets/ab4dd5cd-433b-453b-8fe9-05940b9fd60d" />
 
