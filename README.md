@@ -3,6 +3,33 @@
 
 <img width="1080" height="1080" alt="モックアップ" src="https://github.com/user-attachments/assets/3e277d9b-71cd-4104-bc83-9dcdb9f5c417" />
 
+
+・デモURL
+（これが最強）
+
+・動画リンク（必須級）
+例：YouTube非公開 or Drive共有
+
+・実装概要
+
+テーマ: Dawn 12.x
+
+カスタム: hero-banner, review-section, FAQ など
+
+・使った技術
+
+Liquid
+
+Shopify Theme Editor
+
+HTML/CSS/JS
+
+・できること
+（＝採用側が知りたいこと）
+
+・コードのサンプル
+（3行〜10行で”理解できる量”だけ）
+
 # 🛒 Shopify デモセクション集
 
 Shopify のデモストアを参考にして作成したセクションコードをまとめたリポジトリです。  
