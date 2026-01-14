@@ -4,30 +4,38 @@
 <img width="1080" height="1080" alt="モックアップ" src="https://github.com/user-attachments/assets/3e277d9b-71cd-4104-bc83-9dcdb9f5c417" />
 
 
-📌デモサイトURL
+## 📌デモサイトURL
 https://choconote.myshopify.com/
 
 PWD：test1234
 
-Shopify の Dawn テーマをベースに、チョコレートブランド向けの商品ページ・コレクションページを構築したデモサイトです。デザインの世界観と商品ビジュアルを活かした構成を意識しています。
+Shopify の Dawn テーマをベースに、チョコレートブランド向けの商品ページ・コレクションページを構築したデモサイトです。デザインの世界観と商品ビジュアルを活かした構成を意識しています。　　　　
 
-📌Liquid Section Customization (Dawn Theme)
+## 📌Liquid Section Customization (Dawn Theme)
 
-📍ランキング表示（8位まで表示可能）
+📍ランキング表示セクション（8位まで表示可能）
+- 売れ筋／人気商品などをランキング形式で表示
+- 最大8位までの順位表示に対応
 <img width="1163" height="640" alt="ランキング（8位まで）" src="https://github.com/user-attachments/assets/ab4dd5cd-433b-453b-8fe9-05940b9fd60d" />
 
 
 
 
 
-📍商品タブ切替
+📍商品タブ切替セクション
+- 商品リストをタブ（カテゴリ）切替で表示
+- タブ操作により該当商品のみを即時切替
 
 https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
 
 
 
 
-📍無料ギフトラッピング、配送日時指定
+📍カート拡張機能
+- カート画面に以下の追加オプションを実装  
+　✔ 無料ギフトラッピングの可否選択  
+　✔ 配送日時指定フォーム
+- 入力内容は注文データに反映（メモや属性に格納可能）
 
 https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 
@@ -39,21 +47,21 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 
 
 
-📌実装概要
+## 📌実装概要
 
 テーマ: Dawn 12.x
 
 カスタム: hero-banner, review-section, FAQ など
 
-📌使った技術
+## 📌使った技術
 
-Liquid
+- Liquid
 
-Shopify Theme Editor
+- Shopify Theme Editor
 
-HTML/CSS/JS
+- HTML/CSS/JS
 
-📌できること
+## 📌できること
 
 ### 🧩 テーマカスタマイズ（Liquid）
 - Dawnテーマのセクション追加・編集
