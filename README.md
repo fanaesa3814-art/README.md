@@ -18,7 +18,29 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
 - 最大8位までの順位表示に対応
 <img width="1028" height="770" alt="ランキング表示" src="https://github.com/user-attachments/assets/cb9543b7-c5e6-45bb-9c50-be81c4325cc4" />
 
-
+```
+ {% if section.settings.show_ranking %}
+   {% case forloop.index %}
+      {% when 1 %}
+        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+      {% when 2 %}
+        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+      {% when 3 %}
+        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+      {% when 4 %}
+        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+      {% when 5 %}
+        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+      {% when 6 %}
+        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+      {% when 7 %}
+        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+      {% when 8 %}
+        <span class="c_ranking-badge c_rank-other">{{ forloop.index }}</span>
+      {% else %}
+    {% endcase %}
+  {% endif %}
+```
 
 
 📍商品タブ切替セクション
@@ -27,8 +49,42 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
 
 https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
   
+```
 
+<div class="tab-content" data-tab="daily_gift" id="content-daily_gift">
+    <div class="products">
+      {% for product in collections.daily_gift.products %}
+        <div class="product">
+          <a href="{{ product.url }}">
+            <img src="{{ product.featured_media | image_url: width: 500 }}" width="500" height="500">
+            <p class="product-title">{{ product.title }}</p>
+            <p class="product-price">
+               {% if product.compare_at_price_max > product.price %}
+                <span class="price-compare">{{ product.compare_at_price_max | money }}</span>
+                <span class="price-sale">{{ product.price | money }}</span>
+              {% else %}
+                {{ product.price | money }}
+              {% endif %}
+            </p>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 
+<script>
+  window.addEventListener('load', function(){
+    // デイリーボタンをクリックした際
+    document.querySelector("#btn-daily_gift").addEventListener("click", function(){
+       // クリックされた時の処理
+       document.querySelector("#content-daily_gift").style.display = "block";
+       document.querySelector("#content-premium_gift").style.display = "none";
+       // デイリーボタンをアクティブにする
+       document.querySelector("#btn-daily_gift").classList.add("active");
+      // プレミアムボタンを非アクティブにする
+      document.querySelector("#btn-premium_gift").classList.remove("active");
+    });
+```
 
 
 
