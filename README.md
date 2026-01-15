@@ -19,7 +19,7 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
 <img width="1028" height="770" alt="ランキング表示" src="https://github.com/user-attachments/assets/cb9543b7-c5e6-45bb-9c50-be81c4325cc4" />
 
 <details>
-<summary>💻 Liquidのコードを見る（クリックで展開）</summary>
+<summary> 💻 Liquidのコードを見る（クリックで展開）</summary>
 
 ```liquid
 {% if section.settings.show_ranking %}
@@ -42,35 +42,10 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
       <span class="c_ranking-badge c_rank-other">{{ forloop.index }}</span>
   {% endcase %}
 {% endif %}
-</details>
-
-```markdown
-<details>
-<summary>💻 Liquidのコードを見る（クリックで展開）</summary>
-
- {% if section.settings.show_ranking %}
-   {% case forloop.index %}
-      {% when 1 %}
-        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
-      {% when 2 %}
-        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
-      {% when 3 %}
-        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
-      {% when 4 %}
-        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
-      {% when 5 %}
-        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
-      {% when 6 %}
-        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
-      {% when 7 %}
-        <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
-      {% when 8 %}
-        <span class="c_ranking-badge c_rank-other">{{ forloop.index }}</span>
-      {% else %}
-    {% endcase %}
-  {% endif %}
-</details>
 ```
+</details>  
+
+
 
 
 📍商品タブ切替セクション
@@ -78,8 +53,10 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
 - タブ操作により該当商品のみを即時切替
 
 https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
-  
-```
+
+<details>
+<summary> 💻 Liquidのコードを見る（クリックで展開）</summary>
+```liquid
 
 <div class="tab-content" data-tab="daily_gift" id="content-daily_gift">
     <div class="products">
@@ -115,7 +92,7 @@ https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
       document.querySelector("#btn-premium_gift").classList.remove("active");
     });
 ```
-
+</details>
 
 
 📍カート拡張機能
@@ -127,6 +104,8 @@ https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
 https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 
 
+<details>
+<summary> 💻 Liquidのコードを見る（クリックで展開）</summary>
 ```
 {%- when 'gift' -%}
   <p class="cart-attribute__field">
@@ -135,7 +114,7 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
    <label>🎀 無料ギフトラッピング</label>
   </p>
 ```
-
+</details>
 
 
 
