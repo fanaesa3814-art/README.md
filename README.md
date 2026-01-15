@@ -153,8 +153,9 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 ## 💼 できること・スキルセット
 
 ### 🧩 Shopify構築・カスタマイズ
-- **テーマ編集:** Dawn等のOS 2.0テーマのカスタマイズ、セクション追加。
-- **独自実装:** メタフィールドを活用した商品情報の拡張表示、レスポンシブ対応。
+- **複数テーマへの対応**: DawnおよびHORIZONテーマでの構築経験。
+- **AI活用による効率化**: Shopify Sidekickを活用した画像生成や、Shopify Magic等のAIツールを用いたスピーディーなコンテンツ制作。
+- **セクション開発**: Generatorを利用したカスタムセクションの迅速な追加と調整。
 
 ### ⚙️ 運用自動化・アプリ連携
 - **CRM連携:** 「CRM PLUS on LINE」によるステップ配信・カゴ落ち対策。
@@ -168,7 +169,7 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 
 ## 🛠 使用技術
 - **Languages:** Liquid, HTML5, CSS3, JavaScript
-- **Tools:** Shopify Flow, CRM PLUS on LINE, GitHub
+- **Tools:** Shopify Flow, CRM PLUS on LINE, Shopify Sidekick / Magic, GitHub
 
 
 ## 📌工夫したポイント
