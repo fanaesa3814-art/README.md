@@ -97,7 +97,14 @@ https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
 https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 
 
-
+```
+{%- when 'gift' -%}
+  <p class="cart-attribute__field">
+   <input type="hidden" name="attributes[無料ギフトラッピング]" value="No" form="cart">
+   <input type="checkbox" name="attributes[無料ギフトラッピング]" value="Yes"{% if cart.attributes["無料ギフトラッピング"] == "Yes" %} checked{% endif %} form="cart">
+   <label>🎀 無料ギフトラッピング</label>
+  </p>
+```
 
 
 
