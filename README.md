@@ -37,12 +37,10 @@ IT業界20年の現場対応力 × IT業界で約20年、カスタマーエン�
 
 ・AI活用: ChatGPTやShopify Sidekickを活用した、迅速かつ精度の高いエラー解析とコード実装
 
-## 📌デモサイトURL
-https://choconote.myshopify.com/
-
-PWD：test1234
-
-Shopify の Dawn テーマをベースに、チョコレートブランド向けの商品ページ・コレクションページを構築したデモサイトです。デザインの世界観と商品ビジュアルを活かした構成を意識しています。　　　　
+## 📌 デモサイト情報
+- **URL:** [ChocoNote デモサイト](https://choconote.myshopify.com/)
+- **パスワード:** `test1234`
+- **コンセプト:** チョコレートブランドの世界観を活かした高機能ECサイト　　　
 
 ## 📌Liquid Section Customization (Dawn Theme)
 
@@ -242,11 +240,9 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 （3行〜10行で”理解できる量”だけ）
 
 
-## 🛠 使用技術（Tech Stack）
-
-- Shopify Liquid
-- HTML / CSS
-- JavaScript(基礎）
+## 🛠 使用技術
+- **Languages:** Liquid, HTML5, CSS3, JavaScript
+- **Tools:** Shopify Flow, CRM PLUS on LINE, GitHub
 
 ---
 
@@ -264,11 +260,5 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 - **運用導線の検証（LINE連携）**  
 　LINE登録 → クーポン → 商品導線 → 販売 までのマーケティング導線を検証。
 
-## 📦 使い方（Usage）
-
-1. このリポジトリをクローンまたはダウンロードします。
-
-```bash
-git clone https://github.com/あなたのユーザー名/リポジトリ名.git
 
 
