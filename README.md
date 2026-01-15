@@ -1,5 +1,5 @@
-# My Vue.js Library App
-# 📚 プロジェクト名
+
+# 📚 Shopify制作デモサイト：[ChocoNote]
 
 <img width="1080" height="1080" alt="モックアップ" src="https://github.com/user-attachments/assets/3e277d9b-71cd-4104-bc83-9dcdb9f5c417" />
 
