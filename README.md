@@ -18,8 +18,7 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
 - 最大8位までの順位表示に対応
 <img width="1028" height="770" alt="ランキング表示" src="https://github.com/user-attachments/assets/cb9543b7-c5e6-45bb-9c50-be81c4325cc4" />
 
-<details>
-<summary> 💻 Liquidのコードを見る（クリックで展開）</summary>
+
 
 ```liquid
 {% if section.settings.show_ranking %}
@@ -43,7 +42,7 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
   {% endcase %}
 {% endif %}
 ```
-</details>  
+  
 
 
 
@@ -54,8 +53,7 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
 
 https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
 
-<details>
-<summary> 💻 Liquidのコードを見る（クリックで展開）</summary>
+
 ```liquid
 
 <div class="tab-content" data-tab="daily_gift" id="content-daily_gift">
@@ -91,8 +89,10 @@ https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
       // プレミアムボタンを非アクティブにする
       document.querySelector("#btn-premium_gift").classList.remove("active");
     });
+</script>
 ```
-</details>
+
+
 
 
 📍カート拡張機能
@@ -104,8 +104,7 @@ https://github.com/user-attachments/assets/43a1cafa-a0be-4f4f-a2f5-f29379c35fc2
 https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 
 
-<details>
-<summary> 💻 Liquidのコードを見る（クリックで展開）</summary>
+
 ```
 {%- when 'gift' -%}
   <p class="cart-attribute__field">
@@ -114,7 +113,7 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
    <label>🎀 無料ギフトラッピング</label>
   </p>
 ```
-</details>
+
 
 
 
