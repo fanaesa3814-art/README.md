@@ -18,7 +18,36 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
 - 最大8位までの順位表示に対応
 <img width="1028" height="770" alt="ランキング表示" src="https://github.com/user-attachments/assets/cb9543b7-c5e6-45bb-9c50-be81c4325cc4" />
 
-```
+<details>
+<summary>💻 Liquidのコードを見る（クリックで展開）</summary>
+
+```liquid
+{% if section.settings.show_ranking %}
+  {% case forloop.index %}
+    {% when 1 %}
+      <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+    {% when 2 %}
+      <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+    {% when 3 %}
+      <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+    {% when 4 %}
+      <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+    {% when 5 %}
+      <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+    {% when 6 %}
+      <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+    {% when 7 %}
+      <span class="c_ranking-badge c_rank-{{ forloop.index }}">{{ forloop.index }}</span>
+    {% when 8 %}
+      <span class="c_ranking-badge c_rank-other">{{ forloop.index }}</span>
+  {% endcase %}
+{% endif %}
+</details>
+
+```markdown
+<details>
+<summary>💻 Liquidのコードを見る（クリックで展開）</summary>
+
  {% if section.settings.show_ranking %}
    {% case forloop.index %}
       {% when 1 %}
@@ -40,6 +69,7 @@ Shopify の Dawn テーマをベースに、チョコレートブランド向け
       {% else %}
     {% endcase %}
   {% endif %}
+</details>
 ```
 
 
