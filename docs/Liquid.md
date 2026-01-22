@@ -1,4 +1,8 @@
 
+<img width="2474" height="500" alt="Frame 3" src="https://github.com/user-attachments/assets/c648708a-cd84-44e7-89d8-6f34d138ff35" />
+
+
+
 # Liquid カスタマイズ詳細
 
 ---
