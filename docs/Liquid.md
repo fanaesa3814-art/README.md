@@ -9,7 +9,16 @@
 ## 📁 UI / 導線改善
 
 ## 📌 **LINE登録バナー固定表示**  
-　画面下部にLINE誘導バナーを固定し登録率を改善  
+　 画面下部にLINE誘導バナーを固定し登録率を改善  
+
+
+📍 ポイント
+
+　✅ショップ回遊中に離脱させず登録導線へ誘導
+
+　✅PC/SP両対応
+
+　✅クリックでLINE友だち登録画面へ遷移
 
 <img width="580" height="337" alt="LINE固定バナー" src="https://github.com/user-attachments/assets/7f061f2a-ee1c-4068-bb44-bf5d9a0b6cd0" />
 <br><br>
@@ -17,7 +26,13 @@
 
 
 ## 📌**メニュー横にアイコン追加**  
-　ナビゲーション横にアイコンを配置し視認性向上  
+　 ナビゲーションメニュー横にアイコンを配置し、視認性・回遊性を改善。
+
+📍 ポイント
+
+　✅PC/SP両方でUI改善が可能
+
+　✅アイコンにより操作対象を視覚で判断しやすい
 
 <img width="563" height="138" alt="メニュー横にアイコン表示" src="https://github.com/user-attachments/assets/749f84cf-c302-4958-a044-b30a5b695212" />
 <br><br>
@@ -27,6 +42,14 @@
 ## 📌 **フッターSNSにLINEアイコン追加**  
 　SNSリンクにLINEを追加して導線を拡張  
 
+ 📍 ポイント
+
+　✅SNS誘導の統一感を強化
+
+　✅ブランド接点を複数確保
+
+　✅UI統一により信頼性UP
+
 <img width="628" height="231" alt="③フッターにLINEアイコン追加" src="https://github.com/user-attachments/assets/850da035-eb21-4ced-bc6e-a6240a69463b" />
 <br><br>
 
@@ -34,11 +57,27 @@
 ## 📌 **ブログ記事に関連商品表示**  
 　ブログ記事から商品ページへの動線を確保  
 
+📍 ポイント
+
+　✅コンテンツ経由で商品ページへ遷移
+
+　✅SEO流入からのCVR改善に有効
+
+　✅ギフトECやレシピ系ブログで特に効果的
+
 <img width="866" height="876" alt="④ブログ記事に関連商品追加" src="https://github.com/user-attachments/assets/182dd212-03c7-4336-9fb6-10a653d76361" />
 <br><br>
 
 ## 📌 **会社概要ページ追加**  
-　固定ページとして企業情報を表示可能に  
+　固定ページとして「会社概要」を追加し、信頼性向上に寄与。
+
+📍 ポイント
+
+　✅法人EC・ギフトECでは必須項目になりやすい
+
+　✅B2B窓口としても機能
+
+　✅企業の所在地/連絡先を明確化
 
 <img width="913" height="681" alt="⑤会社概要" src="https://github.com/user-attachments/assets/40ba4005-c7da-48e4-a30d-1090fbfb7bed" />
 
