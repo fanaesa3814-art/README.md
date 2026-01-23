@@ -2,6 +2,7 @@
 <img width="2474" height="1000" alt="Frame 3" src="https://github.com/user-attachments/assets/c648708a-cd84-44e7-89d8-6f34d138ff35" />
 
 
+# 本ページはShopifyテーマカスタマイズの実装内容を整理した技術ポートフォリオです。
 
 # Shopify Liquid カスタマイズ 一覧
 ---
@@ -251,19 +252,14 @@ https://github.com/user-attachments/assets/862fd7e4-50f5-4e26-ae4a-35fb02ebe383
 
 <br><br>
 
-上記項目以外にも、
+---
+## 🛠 その他対応可能領域
 
- - Liquidカスタム
+- **Liquidカスタム**
+- **アプリ検証**
+- **Shopify Flow自動化**
+- **CRM（LINE連携）**
+- **運用支援**
 
- - アプリ検証
-
- - Shopify Flow自動化
-
- - CRM（LINE連携）
-
- - 運用支援
-
-など幅広く対応可能です。お気軽にご相談ください。
-
-
-
+要件に応じて最適な方法をご提案いたします。
+まずはお気軽にご相談ください。
