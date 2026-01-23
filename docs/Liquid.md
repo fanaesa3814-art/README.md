@@ -20,7 +20,7 @@
 
 　✅クリックでLINE友だち登録画面へ遷移
 
-<img width="580" height="337" alt="LINE固定バナー" src="https://github.com/user-attachments/assets/7f061f2a-ee1c-4068-bb44-bf5d9a0b6cd0" />
+<img width="800" height="464" alt="LINE固定バナー" src="https://github.com/user-attachments/assets/7f061f2a-ee1c-4068-bb44-bf5d9a0b6cd0" />
 <br><br>
 
 
@@ -34,7 +34,7 @@
 
 　✅アイコンにより操作対象を視覚で判断しやすい
 
-<img width="563" height="138" alt="メニュー横にアイコン表示" src="https://github.com/user-attachments/assets/749f84cf-c302-4958-a044-b30a5b695212" />
+<img width="800" height="464" alt="メニュー横にアイコン表示" src="https://github.com/user-attachments/assets/749f84cf-c302-4958-a044-b30a5b695212" />
 <br><br>
 
 
@@ -50,7 +50,7 @@
 
 　✅UI統一により信頼性UP
 
-<img width="628" height="231" alt="③フッターにLINEアイコン追加" src="https://github.com/user-attachments/assets/850da035-eb21-4ced-bc6e-a6240a69463b" />
+<img width="800" height="464" alt="③フッターにLINEアイコン追加" src="https://github.com/user-attachments/assets/850da035-eb21-4ced-bc6e-a6240a69463b" />
 <br><br>
 
 
@@ -97,7 +97,7 @@
   
   　✅価格以外の訴求ポイント（お得感 / 希少性）を視覚的に伝達
 
-<img width="515" height="328" alt="⑥「新作」「送料無料」などラベル設定" src="https://github.com/user-attachments/assets/43eb7cd2-e137-4afc-a76a-7ed330da89a2" />
+<img width="800" height="510" alt="⑥「新作」「送料無料」などラベル設定" src="https://github.com/user-attachments/assets/43eb7cd2-e137-4afc-a76a-7ed330da89a2" />
 <br><br>
 
 ## 📌 **商品タグ表示**  
@@ -111,7 +111,7 @@
 
 　✅テキストベースなのでデザインに馴染みやすい
 
-<img width="509" height="333" alt="⑦「ギフト向け」「〇〇100％」などタグ入り" src="https://github.com/user-attachments/assets/cb820058-af4a-4154-81af-f5c3ab0b48b5" />
+<img width="800" height="523" alt="⑦「ギフト向け」「〇〇100％」などタグ入り" src="https://github.com/user-attachments/assets/cb820058-af4a-4154-81af-f5c3ab0b48b5" />
 <br><br>
 
 ## 📌 **ランキング表示（1〜8位対応）**  
@@ -125,7 +125,7 @@
 
 　✅ギフトECやシーズン商材との相性が良い
 
-<img width="514" height="385" alt="⑧ランキング表示" src="https://github.com/user-attachments/assets/b41f97ba-8ab9-4117-8318-60ca5165c387" />
+<img width="800" height="599" alt="⑧ランキング表示" src="https://github.com/user-attachments/assets/b41f97ba-8ab9-4117-8318-60ca5165c387" />
 <br><br>
 
 ---
@@ -144,7 +144,7 @@
 
 ✅ PC/SP両対応で表示箇所調整可能
 
-<img width="521" height="328" alt="⑨「あといくらで送料無料」" src="https://github.com/user-attachments/assets/b06e5122-7912-46d3-a4c3-fab17d0f8d13" />
+<img width="800" height="504" alt="⑨「あといくらで送料無料」" src="https://github.com/user-attachments/assets/b06e5122-7912-46d3-a4c3-fab17d0f8d13" />
 
 
 ## 📌 **添付ファイルアップロード**  
@@ -179,7 +179,7 @@
 
 ✅ 文字数制限や注意書きがあると親切
 
-<img width="505" height="410" alt="⑩「名入れ」「添付ファイル」「メッセージ」" src="https://github.com/user-attachments/assets/c02185a7-fc42-47e0-a49a-2fe1ef1ee852" />
+<img width="800" height="650" alt="⑩「名入れ」「添付ファイル」「メッセージ」" src="https://github.com/user-attachments/assets/c02185a7-fc42-47e0-a49a-2fe1ef1ee852" />
 
 
 ## 📌 **ギフトラッピング可否**  
@@ -192,7 +192,7 @@
 
 ✅ 有料ラッピングの場合は 売上向上や客単価UPの要因 にもなる
 
-<img width="521" height="328" alt="⑪「ギフトラッピング」の可否" src="https://github.com/user-attachments/assets/0b4532f7-bafd-45e7-986f-e2c48fa9fb8d" />
+<img width="800" height="504" alt="⑪「ギフトラッピング」の可否" src="https://github.com/user-attachments/assets/0b4532f7-bafd-45e7-986f-e2c48fa9fb8d" />
 
 
 ## 📌 **配送日時指定（カレンダー対応）**  
@@ -205,9 +205,9 @@
 
 ✅ 物流オペレーションに寄り添った実装
 
-<img width="521" height="328" alt="⑫「配送日時指定」" src="https://github.com/user-attachments/assets/1b9e3092-5958-45ec-a9e4-23864d09eb18" />
+<img width="800" height="504" alt="⑫「配送日時指定」" src="https://github.com/user-attachments/assets/1b9e3092-5958-45ec-a9e4-23864d09eb18" />
 
-<img width="429" height="428" alt="⑫日付指定" src="https://github.com/user-attachments/assets/3d17db37-cbb5-4baa-ac90-8211c238d5c2" />
+<img width="800" height="798" alt="⑫日付指定" src="https://github.com/user-attachments/assets/3d17db37-cbb5-4baa-ac90-8211c238d5c2" />
 
 
 
