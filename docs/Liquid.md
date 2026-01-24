@@ -2,7 +2,7 @@
 <img width="2474" height="1000" alt="Frame 3" src="https://github.com/user-attachments/assets/c648708a-cd84-44e7-89d8-6f34d138ff35" />
 
 
-# 本ページはShopifyテーマカスタマイズの実装内容を整理した技術ポートフォリオです。
+# 本ページはShopifyテーマカスタマイズの実装内容を整理した<br>技術ポートフォリオです。
 
 # Shopify Liquid カスタマイズ 一覧
 ---
