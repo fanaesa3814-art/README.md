@@ -99,7 +99,18 @@ ID連携・セグメント・メッセージ配信などのCRM動作を検証
 
 **画像例**
 > `images/line_thanks.png`  
-> `images/line_popup.png`  
+> `images/line_popup.png`
+
+## 📌サンクスページに LINE ID 連携誘導
+> <img width="394" height="254" alt="【LINE】購入完了後のサンクスページでLINE IDを促す" src="https://github.com/user-attachments/assets/e8aafad4-d504-4bd7-ba80-bc32868acfd5" />
+
+## 📌ストア上に連携バナー表示
+> <img width="321" height="251" alt="【LINE】②ストアにLINEのID連携を促すバナーを表示する" src="https://github.com/user-attachments/assets/68965231-7d5e-432e-ae6c-bc70093cccce" />
+
+## 📌あいさつメッセージ＆リッチメニュー設定
+<img width="413" height="249" alt="image" src="https://github.com/user-attachments/assets/5b6067f2-0d50-4371-a1a9-5e891834eec4" />
+
+
 
 ---
 
