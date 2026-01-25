@@ -24,7 +24,6 @@ Shopify の **割引設定／自動化／CRM／レビュー／外部導線／LIN
   - Buy Button channel
   - 顧客タグによるCRMセグメント
   - 在庫監視・通知
-  - 配送遅延アラート
   - VIP顧客判定
 
 ---
@@ -65,8 +64,6 @@ Shopify の **割引設定／自動化／CRM／レビュー／外部導線／LIN
 - LINE配信リンク → チェックアウトまで遷移確認
 
 **参考画像**
-> `images/catalog_discount.png`  
-> `images/discount_checkout.png`
 
 ## 📌カタログ
 > <img width="364" height="275" alt="カタログ設定（20％）" src="https://github.com/user-attachments/assets/6c113637-1fcc-4711-9fe6-fd8c5da226d8" />
@@ -97,9 +94,7 @@ ID連携・セグメント・メッセージ配信などのCRM動作を検証
 - ID連携→メッセージ→通知まで一連動作が成立
 - 管理画面／顧客側の挙動差分も把握
 
-**画像例**
-> `images/line_thanks.png`  
-> `images/line_popup.png`
+**参考画像**
 
 ## 📌サンクスページに LINE ID 連携誘導
 > <img width="394" height="254" alt="【LINE】購入完了後のサンクスページでLINE IDを促す" src="https://github.com/user-attachments/assets/e8aafad4-d504-4bd7-ba80-bc32868acfd5" />
@@ -135,7 +130,7 @@ ID連携・セグメント・メッセージ配信などのCRM動作を検証
 **結果**
 - 顧客データ取得 → 顧客インセンティブ付与の導線確立
 
-**画像**
+**参考画像**
 > <img width="464" height="262" alt="Shopify Forms" src="https://github.com/user-attachments/assets/4959b386-0765-4f35-bef0-91219709eb9f" />
 
 
@@ -171,7 +166,7 @@ CVR改善に寄与するレビュー導入の実装検証
 **結果**
 - EC外サイト（LINE公式）→カート→決済完了まで一連で動作
 
-**画像**
+**参考画像**
 > <img width="455" height="253" alt="Buy Button Channel" src="https://github.com/user-attachments/assets/764a953d-9f52-4a95-bc81-9ba840406ca7" />
 
 
@@ -192,78 +187,70 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 |用途|販促施策・同梱オペレーション|
 |結果|購入後にタグ付与を確認|
 
+**参考画像**
+
 > <img width="471" height="269" alt="【Flow】①ノベルティ自動付与" src="https://github.com/user-attachments/assets/9700a619-5100-47f4-88f6-185634f2e349" />
 
 
 ---
 
-### **📌 UC-02：配送遅延アラート**
-|項目|内容|
-|---|---|
-|条件|購入後1日経過 & 未発送|
-|アクション|担当者へメール通知|
-|用途|発送遅延防止・CS品質向上|
-
----
-
-### **📌 UC-03：在庫アラート**
+### **📌 UC-02：在庫アラート**
 |項目|内容|
 |---|---|
 |条件|在庫数 ≤ 3|
 |アクション|管理メール通知|
 |用途|在庫引当調整・仕入判断|
 
+**参考画像**
+
 > <img width="467" height="259" alt="【Flow】③在庫アラート" src="https://github.com/user-attachments/assets/6aad48d4-5165-4fdf-9420-9d9af2172d86" />
 
 
 ---
 
-### **📌 UC-04：新商品タグの自動解除**
-|項目|内容|
-|---|---|
-|条件|新商品にタグ付与|
-|アクション|30日後にタグ自動削除|
-|用途|新商品区分の自動管理|
-
----
-
-### **📌 UC-05：特定商品購入通知**
+### **📌 UC-03：特定商品購入通知**
 |項目|内容|
 |---|---|
 |条件|特定商品の購入|
 |アクション|顧客タグ＋担当者通知|
 |用途|数量限定・シーズナル商品管理|
 
+**参考画像**
+
 > <img width="467" height="261" alt="【Flow】⑤特定商品購入後タグ付与" src="https://github.com/user-attachments/assets/5ff61267-cf8b-4de0-962b-223e81f21972" />
 
 
 ---
 
-### **📌 UC-06：顧客セグメント（CRM）**
+### **📌 UC-04：顧客セグメント（CRM）**
 |項目|内容|
 |---|---|
 |条件|特定コレクション購入|
 |アクション|顧客に `チョコレート購入者` 等のタグ付与|
 |用途|LINE配信/メルマガ/分析向けセグメント|
 
+**参考画像**
+
 > <img width="473" height="266" alt="【Flow】⑥特定商品購入後セグメント分け" src="https://github.com/user-attachments/assets/c7312d90-604e-4697-92aa-53e3cb6974c1" />
 
 
 ---
 
-### **📌 UC-07：VIP判定**
+### **📌 UC-05：VIP判定**
 |項目|内容|
 |---|---|
 |条件|1回20,000円以上購入|
 |アクション|顧客タグ `2026_VIP` を付与|
 |用途|LTV施策・優待施策|
 
+**参考画像**
+
 > <img width="455" height="260" alt="【Flow】⑦VIP判定" src="https://github.com/user-attachments/assets/ceb94494-18c4-48e2-8005-f36258a5cd53" />
 
 
 ---
 
-### 📌 UC-08：期間限定購入タグ付与（日時範囲指定）
+### 📌 UC-06：期間限定購入タグ付与（日時範囲指定）
 
 |項目|内容|
 |---|---|
@@ -277,8 +264,8 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 - 期間はキャンペーンなどの **一時的な購入者把握** に活用可能
 - Order タグなので **出荷処理・販促分析と連携しやすい**
 
-**Flow 設定イメージ**
-（画像例：`images/flow_time_range_tag.png`）
+**参考画像**
+
 > <img width="476" height="260" alt="【Flow】⑧期間限定購入タグ付与" src="https://github.com/user-attachments/assets/04e81795-ce47-48d3-af3a-1dd0e974c342" />
 
 
@@ -295,5 +282,15 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 
 ---
 
-## 📁 **Repository Structure（例）**
+## 🎯 **総評（Contribution Value）**
+
+このストア検証により、以下の価値を確認：
+
+✔ **CVR改善：** レビュー / 割引 / 外部導線  
+✔ **LTV改善：** LINE連携 / CRMタグ付与  
+✔ **業務効率化：** Flow を用いた自動化  
+✔ **在庫管理精度向上：** アラート / タグ制御  
+✔ **顧客体験向上：** ポップアップ / クーポン配布
+
+---
 
