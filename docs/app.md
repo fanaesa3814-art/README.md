@@ -1,5 +1,6 @@
 
-<img width="1536" height="1024" alt="appヘッダー用画像" src="https://github.com/user-attachments/assets/81af8b8e-3e05-48a0-8354-95a34b7dd31f" />
+<img width="1536" height="1024" alt="appヘッダー画像" src="https://github.com/user-attachments/assets/c94e1c68-a165-4a94-b321-7c7591c7e5a4" />
+
 
 # ChocoNote — Shopify 機能検証ストア
 
