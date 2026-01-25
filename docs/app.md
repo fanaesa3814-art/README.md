@@ -68,6 +68,15 @@ Shopify の **割引設定／自動化／CRM／レビュー／外部導線／LIN
 > `images/catalog_discount.png`  
 > `images/discount_checkout.png`
 
+## 📌カタログ
+> <img width="364" height="275" alt="カタログ設定（20％）" src="https://github.com/user-attachments/assets/6c113637-1fcc-4711-9fe6-fd8c5da226d8" />
+> <img width="374" height="248" alt="カタログ検証①" src="https://github.com/user-attachments/assets/7b99de50-2333-42dc-8912-43d12893beed" />
+
+> <img width="384" height="253" alt="カタログ検証②" src="https://github.com/user-attachments/assets/4eb3183d-74e4-47c5-8aaf-b95484c2b887" />
+
+## 📌ディスカウント
+> <img width="574" height="288" alt="ディスカウント検証①" src="https://github.com/user-attachments/assets/8e8c84bc-d837-48ca-a6e2-e87fad9db935" />
+
 ---
 
 ### ### 2. LINE 連携（CRM PLUS on LINE）
