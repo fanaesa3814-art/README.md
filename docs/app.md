@@ -108,11 +108,20 @@ ID連携・セグメント・メッセージ配信などのCRM動作を検証
 > <img width="321" height="251" alt="【LINE】②ストアにLINEのID連携を促すバナーを表示する" src="https://github.com/user-attachments/assets/68965231-7d5e-432e-ae6c-bc70093cccce" />
 
 ## 📌あいさつメッセージ＆リッチメニュー設定
-<img width="413" height="249" alt="image" src="https://github.com/user-attachments/assets/5b6067f2-0d50-4371-a1a9-5e891834eec4" />
+> <img width="413" height="249" alt="image" src="https://github.com/user-attachments/assets/5b6067f2-0d50-4371-a1a9-5e891834eec4" />
 
+## 📌Message Manager / 公式LINE 両方で配信テスト
+> <img width="466" height="260" alt="【LINE】④アプリ、公式LINEよりメッセージ配信、動作検証" src="https://github.com/user-attachments/assets/3aa9c19d-8d53-4a1e-9196-404da45138f2" />
 
+## 📌10秒後ポップアップ表示（友達追加促進）
+> <img width="470" height="264" alt="【LINE】⑤10秒後にポップアップ表示" src="https://github.com/user-attachments/assets/02a8fe11-2965-4b37-9dee-9cb381c72ec4" />
 
+☞ [10秒後にポップアップした動画を見る](https://www.youtube.com/watch?v=dFQ22Yr7wi0)
+
+## 📌チェックアウトリマインダー1時間後配信
+> <img width="416" height="263" alt="【LINE】⑥チェックアウトリマインド配信" src="https://github.com/user-attachments/assets/7e32938e-6022-4292-8fdb-4ceeafb8415f" />
 ---
+
 
 ### ### 3. ポップアップ & クーポン（Shopify Forms）
 
