@@ -1,4 +1,6 @@
 
+<img width="1536" height="1024" alt="appヘッダー用画像" src="https://github.com/user-attachments/assets/81af8b8e-3e05-48a0-8354-95a34b7dd31f" />
+
 # ChocoNote — Shopify 機能検証ストア
 
 Shopify の **割引設定／自動化／CRM／レビュー／外部導線／LINE連携** などを包括的に検証したプロジェクトです。  
