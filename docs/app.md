@@ -151,8 +151,12 @@ CVR改善に寄与するレビュー導入の実装検証
 **結果**
 - レビューをフロント複数箇所へ配置可能性を確認
 
-**画像**
-> `images/judgeme_widgets.png`
+**参考画像**
+
+> <img width="461" height="262" alt="Judge me①" src="https://github.com/user-attachments/assets/43ed6d42-e606-4b40-976d-d986cbfea687" />
+> <img width="461" height="260" alt="Judge me②" src="https://github.com/user-attachments/assets/c01876fd-c9c0-473f-9939-d8dcec8eea08" />
+ 
+
 
 ---
 
