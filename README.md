@@ -140,7 +140,7 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 <br>
 
 > [!IMPORTANT]
-> ### 実装コードの解説や、その他のカスタマイズの詳細
+> ### その他のカスタマイズの詳細
 > ## 🔗 [**Shopify Liquid カスタマイズ詳細ページを見る**](https://github.com/fanaesa3814-art/README.md/blob/main/docs/Liquid.md)
 
 
