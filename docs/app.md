@@ -67,13 +67,13 @@ Shopify の **割引設定／自動化／CRM／レビュー／外部導線／LIN
 **参考画像**
 
 ## 📌カタログ
-> <img width="364" height="275" alt="カタログ設定（20％）" src="https://github.com/user-attachments/assets/6c113637-1fcc-4711-9fe6-fd8c5da226d8" />
-> <img width="374" height="248" alt="カタログ検証①" src="https://github.com/user-attachments/assets/7b99de50-2333-42dc-8912-43d12893beed" />
+> <img width="800" height="604" alt="カタログ設定（20％）" src="https://github.com/user-attachments/assets/6c113637-1fcc-4711-9fe6-fd8c5da226d8" />
+> <img width="800" height="531" alt="カタログ検証①" src="https://github.com/user-attachments/assets/7b99de50-2333-42dc-8912-43d12893beed" />
 
-> <img width="384" height="253" alt="カタログ検証②" src="https://github.com/user-attachments/assets/4eb3183d-74e4-47c5-8aaf-b95484c2b887" />
+> <img width="800" height="527" alt="カタログ検証②" src="https://github.com/user-attachments/assets/4eb3183d-74e4-47c5-8aaf-b95484c2b887" />
 
 ## 📌ディスカウント
-> <img width="574" height="288" alt="ディスカウント検証①" src="https://github.com/user-attachments/assets/8e8c84bc-d837-48ca-a6e2-e87fad9db935" />
+> <img width="800" height="401" alt="ディスカウント検証①" src="https://github.com/user-attachments/assets/8e8c84bc-d837-48ca-a6e2-e87fad9db935" />
 
 ---
 
@@ -98,24 +98,24 @@ ID連携・セグメント・メッセージ配信などのCRM動作を検証
 **参考画像**
 
 ## 📌サンクスページに LINE ID 連携誘導
-> <img width="394" height="254" alt="【LINE】購入完了後のサンクスページでLINE IDを促す" src="https://github.com/user-attachments/assets/e8aafad4-d504-4bd7-ba80-bc32868acfd5" />
+> <img width="800" height="515" alt="【LINE】購入完了後のサンクスページでLINE IDを促す" src="https://github.com/user-attachments/assets/e8aafad4-d504-4bd7-ba80-bc32868acfd5" />
 
 ## 📌ストア上に連携バナー表示
-> <img width="321" height="251" alt="【LINE】②ストアにLINEのID連携を促すバナーを表示する" src="https://github.com/user-attachments/assets/68965231-7d5e-432e-ae6c-bc70093cccce" />
+> <img width="800" height="625" alt="【LINE】②ストアにLINEのID連携を促すバナーを表示する" src="https://github.com/user-attachments/assets/68965231-7d5e-432e-ae6c-bc70093cccce" />
 
 ## 📌あいさつメッセージ＆リッチメニュー設定
-> <img width="413" height="249" alt="image" src="https://github.com/user-attachments/assets/5b6067f2-0d50-4371-a1a9-5e891834eec4" />
+> <img width="800" height="482" alt="image" src="https://github.com/user-attachments/assets/5b6067f2-0d50-4371-a1a9-5e891834eec4" />
 
 ## 📌Message Manager / 公式LINE 両方で配信テスト
-> <img width="466" height="260" alt="【LINE】④アプリ、公式LINEよりメッセージ配信、動作検証" src="https://github.com/user-attachments/assets/3aa9c19d-8d53-4a1e-9196-404da45138f2" />
+> <img width="800" height="446" alt="【LINE】④アプリ、公式LINEよりメッセージ配信、動作検証" src="https://github.com/user-attachments/assets/3aa9c19d-8d53-4a1e-9196-404da45138f2" />
 
 ## 📌10秒後ポップアップ表示（友達追加促進）
-> <img width="470" height="264" alt="【LINE】⑤10秒後にポップアップ表示" src="https://github.com/user-attachments/assets/02a8fe11-2965-4b37-9dee-9cb381c72ec4" />
+> <img width="800" height="450" alt="【LINE】⑤10秒後にポップアップ表示" src="https://github.com/user-attachments/assets/02a8fe11-2965-4b37-9dee-9cb381c72ec4" />
 
 ☞ [10秒後にポップアップした動画を見る](https://www.youtube.com/watch?v=dFQ22Yr7wi0)
 
 ## 📌チェックアウトリマインダー1時間後配信
-> <img width="416" height="263" alt="【LINE】⑥チェックアウトリマインド配信" src="https://github.com/user-attachments/assets/7e32938e-6022-4292-8fdb-4ceeafb8415f" />
+> <img width="800" height="505" alt="【LINE】⑥チェックアウトリマインド配信" src="https://github.com/user-attachments/assets/7e32938e-6022-4292-8fdb-4ceeafb8415f" />
 ---
 
 
@@ -132,7 +132,7 @@ ID連携・セグメント・メッセージ配信などのCRM動作を検証
 - 顧客データ取得 → 顧客インセンティブ付与の導線確立
 
 **参考画像**
-> <img width="464" height="262" alt="Shopify Forms" src="https://github.com/user-attachments/assets/4959b386-0765-4f35-bef0-91219709eb9f" />
+> <img width="800" height="452" alt="Shopify Forms" src="https://github.com/user-attachments/assets/4959b386-0765-4f35-bef0-91219709eb9f" />
 
 
 ---
@@ -153,8 +153,8 @@ CVR改善に寄与するレビュー導入の実装検証
 
 **参考画像**
 
-> <img width="461" height="262" alt="Judge me①" src="https://github.com/user-attachments/assets/43ed6d42-e606-4b40-976d-d986cbfea687" />
-> <img width="461" height="260" alt="Judge me②" src="https://github.com/user-attachments/assets/c01876fd-c9c0-473f-9939-d8dcec8eea08" />
+> <img width="800" height="454" alt="Judge me①" src="https://github.com/user-attachments/assets/43ed6d42-e606-4b40-976d-d986cbfea687" />
+> <img width="800" height="451" alt="Judge me②" src="https://github.com/user-attachments/assets/c01876fd-c9c0-473f-9939-d8dcec8eea08" />
  
 
 
@@ -172,7 +172,7 @@ CVR改善に寄与するレビュー導入の実装検証
 - EC外サイト（LINE公式）→カート→決済完了まで一連で動作
 
 **参考画像**
-> <img width="455" height="253" alt="Buy Button Channel" src="https://github.com/user-attachments/assets/764a953d-9f52-4a95-bc81-9ba840406ca7" />
+> <img width="800" height="445" alt="Buy Button Channel" src="https://github.com/user-attachments/assets/764a953d-9f52-4a95-bc81-9ba840406ca7" />
 
 
 
