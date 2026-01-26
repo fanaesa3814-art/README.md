@@ -194,7 +194,7 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 
 **参考画像**
 
-> <img width="471" height="269" alt="【Flow】①ノベルティ自動付与" src="https://github.com/user-attachments/assets/9700a619-5100-47f4-88f6-185634f2e349" />
+> <img width="800" height="457" alt="【Flow】①ノベルティ自動付与" src="https://github.com/user-attachments/assets/9700a619-5100-47f4-88f6-185634f2e349" />
 
 
 ---
@@ -208,7 +208,7 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 
 **参考画像**
 
-> <img width="467" height="259" alt="【Flow】③在庫アラート" src="https://github.com/user-attachments/assets/6aad48d4-5165-4fdf-9420-9d9af2172d86" />
+> <img width="800" height="443" alt="【Flow】③在庫アラート" src="https://github.com/user-attachments/assets/6aad48d4-5165-4fdf-9420-9d9af2172d86" />
 
 
 ---
@@ -222,7 +222,7 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 
 **参考画像**
 
-> <img width="467" height="261" alt="【Flow】⑤特定商品購入後タグ付与" src="https://github.com/user-attachments/assets/5ff61267-cf8b-4de0-962b-223e81f21972" />
+> <img width="800" height="447" alt="【Flow】⑤特定商品購入後タグ付与" src="https://github.com/user-attachments/assets/5ff61267-cf8b-4de0-962b-223e81f21972" />
 
 
 ---
@@ -236,7 +236,7 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 
 **参考画像**
 
-> <img width="473" height="266" alt="【Flow】⑥特定商品購入後セグメント分け" src="https://github.com/user-attachments/assets/c7312d90-604e-4697-92aa-53e3cb6974c1" />
+> <img width="800" height="450" alt="【Flow】⑥特定商品購入後セグメント分け" src="https://github.com/user-attachments/assets/c7312d90-604e-4697-92aa-53e3cb6974c1" />
 
 
 ---
@@ -250,7 +250,7 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 
 **参考画像**
 
-> <img width="455" height="260" alt="【Flow】⑦VIP判定" src="https://github.com/user-attachments/assets/ceb94494-18c4-48e2-8005-f36258a5cd53" />
+> <img width="800" height="457" alt="【Flow】⑦VIP判定" src="https://github.com/user-attachments/assets/ceb94494-18c4-48e2-8005-f36258a5cd53" />
 
 
 ---
@@ -271,7 +271,7 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 
 **参考画像**
 
-> <img width="476" height="260" alt="【Flow】⑧期間限定購入タグ付与" src="https://github.com/user-attachments/assets/04e81795-ce47-48d3-af3a-1dd0e974c342" />
+> <img width="800" height="437" alt="【Flow】⑧期間限定購入タグ付与" src="https://github.com/user-attachments/assets/04e81795-ce47-48d3-af3a-1dd0e974c342" />
 
 
 ---
