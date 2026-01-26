@@ -49,7 +49,7 @@ Shopify の **割引設定／自動化／CRM／レビュー／外部導線／LIN
 
 ---
 
-## ### 1. 割引設定（Catalog & Discounts）
+## 1. 割引設定（Catalog & Discounts）
 
 **目的**  
 商品割引やクーポンの実装挙動を検証し、チェックアウトまでの反映を確認する
@@ -77,7 +77,7 @@ Shopify の **割引設定／自動化／CRM／レビュー／外部導線／LIN
 
 ---
 
-## ### 2. LINE 連携（CRM PLUS on LINE）
+## 2. LINE 連携（CRM PLUS on LINE）
 
 **目的**  
 ID連携・セグメント・メッセージ配信などのCRM動作を検証
@@ -93,7 +93,9 @@ ID連携・セグメント・メッセージ配信などのCRM動作を検証
 
 📍本図は、広告経由でLINE友だち追加からCRM同期・購買・顧客属性付与・セグメント配信に至るまでの一連の顧客導線を示しています。
 LINE連携が単なる通知機能ではなく、ShopifyおよびFlowと連携して 顧客属性の自動化・セグメント生成・再購買促進（LTV向上） に寄与するCRM導線であることを可視化しています。
-<img width="800" height="1200" alt="LINE流れ" src="https://github.com/user-attachments/assets/134ef199-9197-46f1-9671-e018d93a37d6" />
+
+<img width="800" height="1200" alt="LINE流れ" src="https://github.com/user-attachments/assets/7eee3da1-ac83-4b88-8e7b-063c85d3bb68" />
+
 
 **結果**
 - ID連携→メッセージ→通知まで一連動作が成立
@@ -125,7 +127,7 @@ LINE連携が単なる通知機能ではなく、ShopifyおよびFlowと連携�
 ---
 
 
-## ### 3. ポップアップ & クーポン（Shopify Forms）
+## 3. ポップアップ & クーポン（Shopify Forms）
 
 **目的**
 顧客情報取得と購入インセンティブの設計検証
@@ -143,7 +145,7 @@ LINE連携が単なる通知機能ではなく、ShopifyおよびFlowと連携�
 
 ---
 
-## ### 4. レビュー導入（Judge.me）
+## 4. レビュー導入（Judge.me）
 
 **目的**
 CVR改善に寄与するレビュー導入の実装検証
@@ -166,7 +168,7 @@ CVR改善に寄与するレビュー導入の実装検証
 
 ---
 
-## ### 5. 外部導線（Buy Button channel）
+## 5. 外部導線（Buy Button channel）
 
 **目的**
 外部LP → LINE公式 → Shopify本番チェックアウト の導線を確立するための検証
