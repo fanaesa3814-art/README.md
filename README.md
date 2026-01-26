@@ -137,6 +137,11 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
    <label>🎀 無料ギフトラッピング</label>
   </p>
 ```
+<br>
+
+> [!IMPORTANT]
+> ### 実装コードの解説や、その他のカスタマイズの詳細
+> ## 🔗 [**Shopify Liquid カスタマイズ詳細ページを見る**](https://github.com/fanaesa3814-art/README.md/blob/main/docs/Liquid.md)
 
 
 
@@ -161,6 +166,10 @@ https://github.com/user-attachments/assets/10b2f773-1543-4cb7-95d0-f7b8f7eae695
 - **CRM連携:** 「CRM PLUS on LINE」によるステップ配信・カゴ落ち対策。
 - **自動化:** 「Shopify Flow」を用いた顧客タグ付与・在庫アラート構築。
 - **主要アプリ:** Judge.me（レビュー）、Shopify Inbox（チャット）等の導入設定。
+
+> [!IMPORTANT]
+> ### アプリ導入・Shopify Flow設定・運用の詳細
+> ## 🔗 [**Shopify アプリ・運用検証詳細ページを見る**](https://github.com/fanaesa3814-art/README.md/blob/main/docs/app.md)
 
 ### 🤝 テクニカルサポート
 - **トラブル解決:** 20年の経験に基づく、PC・ネットワーク等のインフラ環境を含めた総合的なサポート。
