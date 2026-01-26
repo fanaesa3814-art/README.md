@@ -94,7 +94,8 @@ ID連携・セグメント・メッセージ配信などのCRM動作を検証
 📍本図は、広告経由でLINE友だち追加からCRM同期・購買・顧客属性付与・セグメント配信に至るまでの一連の顧客導線を示しています。
 LINE連携が単なる通知機能ではなく、ShopifyおよびFlowと連携して 顧客属性の自動化・セグメント生成・再購買促進（LTV向上） に寄与するCRM導線であることを可視化しています。
 
-<img width="800" height="1200" alt="LINE流れ" src="https://github.com/user-attachments/assets/7eee3da1-ac83-4b88-8e7b-063c85d3bb68" />
+<img width="400" height="996" alt="LINE流れ" src="https://github.com/user-attachments/assets/0c9072e7-c38e-4cb4-9e34-0085cd52d302" />
+
 
 
 **結果**
@@ -215,8 +216,7 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 |用途|在庫引当調整・仕入判断|
 
 **参考画像**
-
-> <img width="800" height="443" alt="【Flow】③在庫アラート" src="https://github.com/user-attachments/assets/6aad48d4-5165-4fdf-9420-9d9af2172d86" />
+> <img width="800" height="443" alt="【Flow】③在庫アラート" src="https://github.com/user-attachments/assets/cb9ace51-7979-4195-a4f8-686da477f282" />
 
 
 ---
@@ -229,8 +229,7 @@ Flowは **実務で最も重要な領域** なので “運用ユースケース
 |用途|数量限定・シーズナル商品管理|
 
 **参考画像**
-
-> <img width="800" height="447" alt="【Flow】⑤特定商品購入後タグ付与" src="https://github.com/user-attachments/assets/5ff61267-cf8b-4de0-962b-223e81f21972" />
+> <img width="800" height="447" alt="【Flow】⑤特定商品購入後タグ付与" src="https://github.com/user-attachments/assets/8c23015f-d8ce-4816-a512-9a2b1d35906c" />
 
 
 ---
